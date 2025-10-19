@@ -1,6 +1,6 @@
 +++
 date = '2025-10-19'
-draft = true
+draft = false
 title = 'Weekly Cybersecurity Blog'
 +++
 
