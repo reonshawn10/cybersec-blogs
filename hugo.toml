@@ -1,4 +1,4 @@
-baseURL = 'https://localhost:1313/'
+baseURL = 'https://cybersec-blogs.netlify.app/'
 languageCode = 'en-us'
 title = 'Cybersecurity Blog'
 theme = 'ananke'

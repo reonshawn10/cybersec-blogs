@@ -1,7 +1,7 @@
 +++
 date = '2025-10-19'
 draft = true
-title = 'My First Post'
+title = 'Weekly Cybersecurity Blog'
 +++
 
 # Week 1 - Linux Basics for Cybersecurity (My Learning Log)
