@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cybersecurity Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Cybersecurity Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/week-1-linux/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/week-1-linux/</guid>
+      <description>&lt;h1 id=&#34;week-1---linux-basics-for-cybersecurity-my-learning-log&#34;&gt;Week 1 - Linux Basics for Cybersecurity (My Learning Log)&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m starting to document my cybersecurity learning journey. I&amp;rsquo;m currently in Course 4 of the Google Cybersecurity Professional Certificate, and this week I began working with Linux - one of the core tools used in security operations, incident response, forensics, and ethical hacking.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-linux-matters-in-cybersecurity&#34;&gt;Why Linux Matters in Cybersecurity&lt;/h2&gt;&#xA;&lt;p&gt;Most servers and security tools run on Linux. If you want to:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
